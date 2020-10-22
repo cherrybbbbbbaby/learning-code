@@ -1,6 +1,5 @@
-package com.djh.demo;
+package com.djh.demo.juc;
 
-import java.math.BigDecimal;
 import java.util.concurrent.*;
 
 public class ThreadPoolTest {
